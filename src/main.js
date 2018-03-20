@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import './assets/css/style.css'
+import './assets/css/style_all.css'
 
 Vue.config.productionTip = false;
 window.axios = require("axios");
